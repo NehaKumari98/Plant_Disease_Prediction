@@ -27,11 +27,10 @@ It consists of a **Flask backend** (for model prediction) and a **React frontend
 
 
 ## Frontend Setup
-**step 1.** cd ../frontend
-**step 2.** npm install
-**step 3.** npm install react-scripts@5.0.1 --save
-**step 4.** npm start
-
+**Step 1:** `cd ../frontend`  
+**Step 2:** `npm install`  
+**Step 3:** `npm install react-scripts@5.0.1 --save`  
+**Step 4:** `npm start`
 
 
 
