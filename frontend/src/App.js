@@ -72,8 +72,8 @@ function App() {
       }}>
         <Container>
           <p>© {new Date().getFullYear()} Plant Disease Detector. All rights reserved.</p>
-          <p>Developed with 🌱 by <strong>Kamil Perwez and Team</strong></p>
-          <p>📧 Contact: <a href="mailto:kamilperwez@gmail.com" style={{ color: darkMode ? '#a5d6a7' : '#2e7d32' }}>kamilperwez@gmail.com</a></p>
+          <p>Developed with 🌱 by <strong>Neha Kumari</strong></p>
+          <p>📧 Contact: <a href="mailto:nehakumari4911@gmail.com" style={{ color: darkMode ? '#a5d6a7' : '#2e7d32' }}>nehakumari4911@gmail.com</a></p>
         </Container>
       </footer>
     </div>
