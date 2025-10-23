@@ -19,12 +19,12 @@ It consists of a **Flask backend** (for model prediction) and a **React frontend
 
 ## 🚀 Project Setup Guide
 
-## Backend Setup 
-**step 1.** python -m venv .venv
-**step 2.** .venv\Scripts\activate
-**step 3.** pip install -r requirements.txt
-**step 4.** cd backend
-          **python main.py**
+## 🧩 Backend Setup  
+**Step 1:** `python -m venv .venv`  
+**Step 2:** `.venv\Scripts\activate`  
+**Step 3:** `pip install -r requirements.txt`  
+**Step 4:** `cd backend` → `python main.py`
+
 
 ## Frontend Setup
 **step 1.** cd ../frontend
